@@ -1,5 +1,5 @@
 name: "BDSR1"
-output_dir: "../docs/instructions"
+output_dir: "../../docs/instructions"
 output:
   bookdown::html_document2:
     toc: true
