@@ -1,4 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+/* 
+    LABS STYLE
+    Last modified: Umberto Noe, 2022
+*/
+
+
+/* FONTS */
+
+/* Sans serif */
+@import url('https://fonts.googleapis.com/css2?family=Inria+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+/* Mono */
+@import url('https://fonts.googleapis.com/css2?family=Spline+Sans+Mono:wght@400;700&display=swap');
+
 
 /* NAVBAR */
 
@@ -42,7 +55,7 @@
 /* TOC */
 
 .list-group-item {
-  color: black !important;
+    color: black !important;
 }
 
 .list-group-item:hover {
@@ -61,7 +74,7 @@
 
 
 
-/* Boxes */
+/* BOXES */
 
 div.lo, div.blue, div.red, div.green, div.yellow, div.frame, div.statbox{ 
     border-radius: 5px; 
@@ -86,7 +99,6 @@ div.lo, div.blue, div.red, div.green, div.yellow, div.frame, div.statbox{
 }
 
 
-
 div.int {
     margin-left: 3em;
     margin-right: 3em;
@@ -96,28 +108,26 @@ div.int {
     border-right: 8px solid #73a3c3;
 }
 .lo {
-  border: 3px solid #0F4C81 !important; 
+    border: 3px solid #0F4C81 !important; 
 }
 .statbox{
-  background-color:#fffcf2 !important; 
+    background-color:#fffcf2 !important; 
 }
 .rtip {
-  border-left: 5px solid #a64bb0;
-  padding: 20px 20px 10px 20px; 
-  margin-top: 20px; 
-  margin-bottom: 20px; 
+    border-left: 5px solid #a64bb0;
+    padding: 20px 20px 10px 20px; 
+    margin-top: 20px; 
+    margin-bottom: 20px; 
 }
 .imp{
-  border-left: 5px solid #FF3131;
-  padding: 20px 20px 10px 20px; 
-  margin-top: 20px; 
-  margin-bottom: 20px; 
+    border-left: 5px solid #FF3131;
+    padding: 20px 20px 10px 20px; 
+    margin-top: 20px; 
+    margin-bottom: 20px; 
 }
 
 
-
-
-/* Questions and solutions */
+/* QUESTIONS AND SOLUTIONS */
 
 .question-begin {
     padding: 10px 20px 10px 20px; 
@@ -149,11 +159,10 @@ div.int {
 }
 
 .solution-body {
-  padding: 20px 20px 10px 20px; 
-  margin-bottom: 20px;
-  border-left: 5px solid #0F4C81;
+    padding: 20px 20px 10px 20px; 
+    margin-bottom: 20px;
+    border-left: 5px solid #0F4C81;
 }
-
 
 .solution-icon {
     font-size: 1.2em;
@@ -165,7 +174,8 @@ div.int {
     transform: translate(0,-50%);
 }
 
-/* Optional box */
+
+/* OPTIONAL BOX */
 
 .optional-begin {
     position: relative;
@@ -193,15 +203,43 @@ div.int {
 }
 
 
+/* WHOLE DOCUMENT */
+
+body {
+    font-family: 'Inria Sans', sans-serif;
+    font-size: 12pt;
+}
+
+code {
+    background-color: rgba(0,0,0,0);
+    font-family: 'Spline Sans Mono', monospace;
+    color: #64499b;
+}
+
 
 /* HEADERS */
 
 h1 {
-  padding-top: 2em !important;
-  margin-top: -1em !important;
+    padding-top: 2em !important;
+    margin-top: -1em !important;
+    font-family: 'Inria Sans', sans-serif;
+    font-weight: normal;
 }
 
 h2, h3, h4, h5, h6 {
-  padding-top: 2em !important;
-  margin-top: -1em !important;
+    padding-top: 2em !important;
+    margin-top: -1em !important;
+    font-family: 'Inria Sans', sans-serif;
+    font-weight: normal;
+}
+
+h1.title {
+    font-weight: bold;
+    color: #0F4C81;
+}
+
+h3.subtitle {
+    padding-top: 1em !important;
+    font-weight: normal;
+    color: #0F4C81;
 }
