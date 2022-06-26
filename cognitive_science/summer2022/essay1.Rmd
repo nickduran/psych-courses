@@ -11,6 +11,7 @@ output:
     toc: true
     toc_float: true
     theme: cosmo
+    highlight: tango
     number_sections: false
     include:
       in_header: assets/toggling.html
