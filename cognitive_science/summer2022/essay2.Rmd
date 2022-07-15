@@ -1,0 +1,179 @@
+---
+title: "Short Essay 2 - Instructions"
+# bibliography: references.bib
+# biblio-style: apalike
+# link-citations: yes
+params: 
+    SHOW_SOLS: FALSE # if i wanted to give solutions, could toggle back on. 
+    TOGGLE: TRUE
+# output:
+#   bookdown::html_document2:
+#     toc: true
+#     toc_float: true
+#     theme: cosmo
+#     highlight: tango
+#     number_sections: false
+#     include:
+#       in_header: assets/toggling.html
+#     #   after_body: https://uoepsy.github.io/assets/ccfooter.html
+#     css: assets/style-labs.css
+---
+
+```{r setup, include=FALSE}
+source('assets/setup.R')
+
+# ```{r setup, include = FALSE}
+# knitr::opts_chunk$set(eval = TRUE)
+# ```
+
+# :::red : use for pre-lab activity instructions
+# :::lo : use for outlining the learning objectives
+# :::green : use for tips on how to complete the task
+# :::yellow : use for additional information on how to use R that does not directly have anything to do with the assignment tasks
+# :::frame : use when want to set some additional instructions/code/examples apart from the assignment task when explaining something about how to use R
+
+# :::blue : same color as question box background. Not sure how much this needs to be used. 
+# :::statbox : looks a lot like yellow
+
+```
+
+# Formatting Requirements
+
+Length, 2 pages single-spaced; 1” margins; 12 pt., Times New Roman font. You must follow these formatting requirements. When you do so, your essay will be around 650-750 words. If you include a reference section (optional), please submit as a 3rd page.  
+
+Click [HERE](https://docs.google.com/document/d/19noAMOTqzjI1OV_QGa5nKtZ-R4kJbQ4n5PxP-Es8o2w/edit?usp=sharing) for an example of how your paper must look when you submit it.
+
+:::red
+**Using Quotes**
+
+When you quote material from the textbook or other learning materials, please be aware that **quoted text WILL NOT count toward the word count of the essay word limit.** I prefer no quoted material at all. I want your own words, ideas, and interpretation. 
+:::
+
+:::red
+**Plagiarism**
+
+I take plagiarism seriously. All papers are automatically checked for plagiarism using online tools and the course assistants are on high alert for anything suspicious. 
+
+I am also well aware of sites like Course Hero. I have a database of MANY online essays based on my course that I cross-check against. The algorithms are also very good at detecting if words are strategically swapped out to try to trick the algorithms. 
+
+If you are suspected of using a site like Course Hero, or if your essay appears plagiarized from other sources, do not worry as I always reach out to students first to discuss what might have happened. If we cannot resolve things, or if the plagiarism is just blatant and overwhelming, I have no other choice but to report the issue to [ASU's Office of Academic Integrity](https://provost.asu.edu/academic-integrity) for follow-up.  
+:::
+
+---
+
+# Writing Prompt
+
+For this essay assignment, you have a choice to respond to either Prompt A or Prompt B. Please select one! Remember to use your own words and interpretation. 
+
+:::lo
+***Prompt A:***
+
+There is little doubt that understanding the anatomical and functional properties of the brain is important for understanding cognition. But do you need to understand the brain before you can understand cognition? Based on the materials in this module, I would like you to argue for this seemingly strange claim:
+
+"You DO NOT need the brain to understand the mind."
+:::
+
+:::lo
+***Prompt B:***
+
+Based on the materials in this module and in previous modules, describe the key similarities and differences between the dynamical systems approach to cognition (i.e., "mind as a Watt governor") and the CRUM approach to cognition (i.e., "mind as computation)." In your description, be sure to include the weaknesses of CRUM and discuss the advantages of dynamical systems.
+:::
+
+--- 
+
+# Questions to Consider for PROMPT A ONLY
+
+The purpose of Prompt A is to extend your view of the brain and its relationship with understanding cognitive processes and intelligent behavior. Clearly, human cognition requires a brain, but the issue here is whether processes of cognition (i.e., the mind) can be understood without understanding the "where" or "how" of its implementation in the brain. 
+
+The ideas/questions below are designed to prompt your thinking. You do not need to integrate any of the ideas/questions into your responses; but you may find that focusing on one of these issues will help you write a targeted and concise response.
+
+- There are a lot of directions you can go to answer the question. First, consider the notion of a "multiply realizable system." What is it? What does it say about the connection between biological brains, cognition, and intelligence?
+
+- What insights do neural networks provide about cognition? And importantly, even though neural networks are inspired by biological brains, they are also largely abstractions of how the brain actually works. Nevertheless, do they help us understand the mind? If so, how?
+
+- Another direction you might take is to compare/contrast cognitive processes that you believe we understand only because we can study the anatomical/functional properties of the brain versus cognitive processes that we can understand without ever making deep references to the brain’s activity.
+
+---
+
+# Questions to Consider for PROMPT B ONLY
+
+We have focused on the idea that cognition emerges via temporal dependencies between mind, body, and environment. The purpose of this prompt is to help you develop a deeper understanding of this essential idea, as captured by dynamical systems theory. Moreover, this prompt provides an opportunity for you to draw on your knowledge of recently learned material (from the previous modules) to uniquely situate dynamical systems theory within a larger explanatory framework of cognitive mechanisms and models. The best responses will include a clear separation of the similarities and differences between dynamical systems and CRUM, and a clear separation of explicitly stated weaknesses of CRUM and advantages of dynamical systems theory.
+
+The ideas/questions below are designed to prompt your thinking. You do not need to integrate any of the ideas/questions into your responses; but you may find that focusing on one of these issues will help you write a targeted and concise response.
+
+- The concepts "mind as a Watt governor" and "mind as a computer" are just metaphors that help shed light on more fundamental, underlying processes. Be sure that you understand the core assumptions each metaphor is trying to get at, and avoid the confusion in thinking that the mind is literally a Watt governor or literally a computer (that would just be silly). I think framing your response around these two metaphors might be helpful.
+
+- For weaknesses and advantages, can you think of particular kinds of cognitive processes (perception, learning, coordinating actions, language comprehension, problem-solving) that dynamical systems might explain better than CRUM? Why? Alternatively, pretend you are an artificial intelligence designer (pretend you are an engineer at Westworld, or a roboticist at Boston Dynamics) and consider why a dynamical systems "mind" might be superior to a CRUM "mind" for your AI creations, particularly for machines that must adapt to unpredictable and chaotic environments.
+
+- For similarities and differences, this really is the focus of all three core readings: Bermudez' textbook, van Gelder's "It's about time" chapter, and Barrett's "Beyond the brain" chapter. If you haven't already, read (or reread) with the thought question in mind.
+
+---
+
+# Citing Learning Materials
+
+To make a strong argument, it is critical that you make it clear where you are getting the supporting information from within the module. You don't need to do anything fancy to do so. I do not force you to use APA. But I want you to provide detail.  
+
+For example:
+
+- if you reference the textbook, you need to add something like "Bermudez, page 112" or "Textbook, page 112."
+
+- if you reference my video lecture, you need to add something like "Lesson 1 Lecture, 4:23" where the "4:32" is roughly where in the video the point is made
+
+- if you reference one of the videos in the module, you would add something like "Steven Pinker video"
+
+- if you reference one of the readings in the module, you would add something like "'They're made out of meat' article"
+
+The exact form that your citation takes is not that important. What is important is that you do your best to show what resources you're using to support your arguments. 
+
+:::red
+**CRITICAL CONSIDERATIONS**
+
+**No external resources should ever be cited.** If you cite external resources (that are not provided to you via Canvas) you will not get points for these citations.
+
+**You must also cite more than just the textbook or just my lecture.** There needs be ***AT LEAST*** one other resource cited in addition to the textbook or my lecture for maximum points.
+
+Remember: If you explain basic concepts in a superficial way without clear acknowledgement of course learning material you will do poorly.
+:::
+
+---
+
+# How Will I Be Evaluated?
+
+You will be evaluated on three dimensions. For a detailed preview of the exact questions and rating system, see the rubric on the submission page for this assignment. 
+
+-   **Dimension 1: Overall Writing Quality**
+    - Did the author organize his or her response in a way that is logical and clear? What is easy to follow the flow of ideas across the entire essay?
+    - Do the word choices convey a formal and academic writing style?
+    - How well did the author demonstrate a good grasp of standard writing conventions (e.g., spelling, punctuation, capitalization, grammar, usage, paragraphing)?
+-   **Dimension 2: Featuring/Integrating Resources from the Learning Materials**
+    - Did the author attempt to feature resources from the module learning materials in obvious and substantial ways? NOTE: Do not evaluate on whether the resources were used effectively and persuasively, that is for the next item!
+-   **Dimension 3: Using Core Ideas to Demonstrate Knowledge**
+    - Did the author provide a knowledgeable and persuasive response that effectively answers the thought question prompt?
+
+:::green
+**Note:** Unless the essay is completely incomprehensible, you will always receive some points for attempting an essay. Just do not turn it in late! 
+:::
+
+---
+
+# General Writing Tips
+
+Lastly, let me give you a peak into what I do when writing about something I don't have a lot of familiarity with. As I read the new materials, watch videos, etc., I always keep the discussion prompt in the back of my mind. Even though I might not completely understand the prompt before consuming the learning materials, I have a vague and incomplete sense of the key terms and general direction of the prompt. Do I like the vagueness? No. Do I come to peace with it? Yes.   
+I then write down any potentially interesting ideas, questions, etc., that come up as I consume - and I don't worry if they immediately make perfect sense. I don't try to organize things in any meaningful way at this early stage. It's quick and dirty. My only concern is to dump ideas on paper. 
+
+As I continue doing this, what I inevitably find is that at some point the core concepts and ideas start to emerge on their own, a sort of self-organization. It might come suddenly or it might be gradual, but it always comes. I can then see where there are common themes in my notes. I can see where the examples hang together. And before I know it, I have enough material/ideas to easily generate a few pages of text (usually more). 
+
+:::blue
+**Note:** For you perfectionists out there, I am not looking for perfection. I am looking for evidence of sincere effort to understand things. Trust me, it comes through in your writing. 
+
+For you procrastinators out there, you are going to have a really, really hard time if you wait until the last minute. When students do not consume the material in the way I described above, it is painfully obvious.  
+:::
+
+:::green
+**One last thing.** If you are really stuck, or just want some feedback, please make use of the discussion forum in the module. You can also post anonymously if you want (but please keep things friendly).   
+:::
+
+
+
+
+
