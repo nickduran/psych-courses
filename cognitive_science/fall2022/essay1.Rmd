@@ -1,0 +1,166 @@
+---
+title: "Short Essay I - Instructions"
+# bibliography: references.bib
+# biblio-style: apalike
+# link-citations: yes
+params: 
+    SHOW_SOLS: FALSE # if i wanted to give solutions, could toggle back on. 
+    TOGGLE: TRUE
+# output:
+#   bookdown::html_document2:
+#     toc: true
+#     toc_float: true
+#     theme: cosmo
+#     highlight: tango
+#     number_sections: false
+#     include:
+#       in_header: assets/toggling.html
+#     #   after_body: https://uoepsy.github.io/assets/ccfooter.html
+#     css: assets/style-labs.css
+---
+
+```{r setup, include=FALSE}
+source('assets/setup.R')
+
+# ```{r setup, include = FALSE}
+# knitr::opts_chunk$set(eval = TRUE)
+# ```
+
+# :::red : use for pre-lab activity instructions
+# :::lo : use for outlining the learning objectives
+# :::green : use for tips on how to complete the task
+# :::yellow : use for additional information on how to use R that does not directly have anything to do with the assignment tasks
+# :::frame : use when want to set some additional instructions/code/examples apart from the assignment task when explaining something about how to use R
+
+# :::blue : same color as question box background. Not sure how much this needs to be used. 
+# :::statbox : looks a lot like yellow
+
+```
+
+# Formatting Requirements
+
+Length, 2 pages single-spaced; 1” margins; 12 pt., Times New Roman font. You must follow these formatting requirements. When you do so, your essay will be around 650-750 words. If you include a reference section (optional), please submit as a 3rd page.  
+
+Click [HERE](https://docs.google.com/document/d/19noAMOTqzjI1OV_QGa5nKtZ-R4kJbQ4n5PxP-Es8o2w/edit?usp=sharing) for an example of how your paper must look when you submit it.
+
+:::red
+**Using Quotes**
+
+When you quote material from the textbook or other learning materials, please be aware that **quoted text WILL NOT count toward the word count of the essay word limit.** I prefer no quoted material at all. I want your own words, ideas, and interpretation. 
+:::
+
+:::red
+**Plagiarism**
+
+I take plagiarism seriously. All papers are automatically checked for plagiarism using online tools and the course assistants are on high alert for anything suspicious. 
+
+I am also well aware of sites like Course Hero. I have a database of MANY online essays based on my course that I cross-check against. The algorithms are also very good at detecting if words are strategically swapped out to try to trick the algorithms. 
+
+If you are suspected of using a site like Course Hero, or if your essay appears plagiarized from other sources, do not worry as I always reach out to students first to discuss what might have happened. If we cannot resolve things, or if the plagiarism is just blatant and overwhelming, I have no other choice but to report the issue to [ASU's Office of Academic Integrity](https://provost.asu.edu/academic-integrity) for follow-up.  
+:::
+
+---
+
+# Writing Prompt
+
+Please respond to the following prompt using your own words and interpretation. 
+
+:::lo
+It is claimed that representations are one of the fundamental explanatory tools of cognitive science. Based on the learning materials in Modules 1 and 2, describe ways that cognitive scientists have thought about how representations code information about the environment. In your description, be sure to include examples of how these representations might be manipulated and transformed.
+:::
+
+--- 
+
+# Purpose
+
+The purpose of this assignment is to help you synthesize theories of cognition and identify critical differences among theories of information-processing. The target prompt will allow you to demonstrate a basic understanding of the unique claims that various theories and models make about the mind. The best responses will begin with a clear topic sentence on the theme or area of research you will be focusing on. Then, the remaining sentences will be dedicated to providing evidence that builds on your topic sentence by relying on and integrating course material. 
+
+:::red
+**Note:** This last part is important. If you explain basic concepts in a superficial way without clear reference to course learning material you will do poorly.
+:::
+
+---
+
+# Citing Learning Materials
+
+To make a strong argument, it is critical that you make it clear where you are getting the supporting information from within the module. You don't need to do anything fancy to do so. I do not force you to use APA. But I want you to provide detail.  
+
+For example:
+
+- if you reference the textbook, you need to add something like "Bermudez, page 112" or "Textbook, page 112."
+
+- if you reference my video lecture, you need to add something like "Lesson 1 Lecture, 4:23" where the "4:32" is roughly where in the video the point is made
+
+- if you reference one of the videos in the module, you would add something like "Steven Pinker video"
+
+- if you reference one of the readings in the module, you would add something like "'They're made out of meat' article"
+
+The exact form that your citation takes is not that important. What is important is that you do your best to show what resources you're using to support your arguments. 
+
+:::red
+**CRITICAL CONSIDERATIONS**
+
+**No external resources should ever be cited.** If you cite external resources (that are not provided to you via Canvas) you will not get points for these citations.
+
+**You must also cite more than just the textbook or just my lecture.** There needs be ***AT LEAST*** one other resource cited in addition to the textbook or my lecture for maximum points.    
+:::
+
+---
+
+# How Will I Be Evaluated?
+
+You will be evaluated on three dimensions. For a detailed preview of the exact questions and rating system, see the rubric on the submission page for this assignment. 
+
+-   **Dimension 1: Content and Organization**
+    - The central claim of the essay is stated in the introduction and developed throughout the essay. 
+    - The ideas in the essay address the writing prompt. 
+    - The ideas in the essay are fully developed.
+    - The ideas are organized in a way that supports the author's arguments.
+-   **Dimension 2: Clarity and Formatting**
+    - Paper follows the formatting guidelines stated in the instructions. 
+    - All sources should be cited.
+    - Citation should draw from at least two course learning resources (textbook, lectures, media, additional readings) and provide sufficient detail.
+    - The sentences in the essay are clear and follow standard English grammar rules. 
+
+:::green
+**Note:** Unless the essay is completely incomprehensible, you will always receive some points for attempting an essay. Just do not turn it in late! 
+:::
+
+---
+
+# Questions to Consider
+
+The ideas/questions below are designed to prime the pump in your ol' brain. You do not need to integrate any of the ideas/questions into your responses; but you may find that focusing on one or more of these issues will help you as you delve into the learning materials.
+
+- First, be clear what is meant by a representation. I know, it's weird. It's abstract. But think about it: what does it mean to represent information about the environment? What would it even look like to explain behavior and cognition without representations?
+
+- In order to understand information representation and transformation, a major explanatory tool is a cognitive model. These models are critical because they provide a mechanism for explaining information processing. They are an attempt to take what is really abstract and make it more grounded. And this can lead to testable claims about how intelligent agents (humans or machines) might engage with their environment. So, think about the models that have been introduced in the learning materials and focus on one or more of them.
+
+- What unique claims about information processing does CRUM make? Or the physical symbol system hypothesis? Or David Marr's claims? Or even experiments with rats? All of them are trying to say something about information processing (and all of them are dealing in some way with representations and how they might be manipulated in various problem domains).  
+
+- If you were an artificial intelligence researcher and you wanted to create a thinking machine, how would you do it? I bet you would need to figure out some way for that machine to represent its environment. And I bet you would need to figure out a way for that machine to process the information in its environment. Are there any models or theories provided by cognitive science you might turn to for inspiration?  
+
+---
+
+# General Writing Tips
+
+Lastly, let me give you a peak into what I do when writing about something I don't have a lot of familiarity with. As I read the new materials, watch videos, etc., I always keep the discussion prompt in the back of my mind. Even though I might not completely understand the prompt before consuming the learning materials, I have a vague and incomplete sense of the key terms and general direction of the prompt. Do I like the vagueness? No. Do I come to peace with it? Yes.   
+
+I then write down any potentially interesting ideas, questions, etc., that come up as I consume - and I don't worry if they immediately make perfect sense. I don't try to organize things in any meaningful way at this early stage. It's quick and dirty. My only concern is to dump ideas on paper. 
+
+As I continue doing this, what I inevitably find is that at some point the core concepts and ideas start to emerge on their own, a sort of self-organization. It might come suddenly or it might be gradual, but it always comes. I can then see where there are common themes in my notes. I can see where the examples hang together. And before I know it, I have enough material/ideas to easily generate a few pages of text (usually more). 
+
+:::blue
+**Note:** For you perfectionists out there, I am not looking for perfection. I am looking for evidence of sincere effort to understand things. Trust me, it comes through in your writing. 
+
+For you procrastinators out there, you are going to have a really, really hard time if you wait until the last minute. When students do not consume the material in the way I described above, it is painfully obvious.  
+:::
+
+:::green
+**One last thing.** If you are really stuck, or just want some feedback, please make use of the discussion forum in the module. You can also post anonymously if you want (but please keep things friendly).   
+:::
+
+
+
+
+

@@ -1,5 +1,5 @@
 name: "BDSR1"
-output_dir: "../../docs/instructions/summer2022"
+output_dir: "../../docs/instructions/fall2022"
 output:
   bookdown::html_document2:
     toc: true
