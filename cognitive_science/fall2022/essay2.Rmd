@@ -41,7 +41,7 @@ source('assets/setup.R')
 
 Length, 2 pages single-spaced; 1” margins; 12 pt., Times New Roman font. You must follow these formatting requirements. When you do so, your essay will be around 650-750 words. If you include a reference section (optional), please submit as a 3rd page.  
 
-Click [HERE](https://docs.google.com/document/d/19noAMOTqzjI1OV_QGa5nKtZ-R4kJbQ4n5PxP-Es8o2w/edit?usp=sharing) for an example of how your paper must look when you submit it.
+Click [HERE](https://docs.google.com/document/d/1F_9jh_6aUHVBTi-6sIf7uGiLi5ByWfGuT4TUOJwydx8/edit?usp=sharing) for an example of how your paper must look when you submit it.
 
 :::red
 **Using Quotes**
@@ -130,25 +130,26 @@ The exact form that your citation takes is not that important. What is important
 
 **No external resources should ever be cited.** If you cite external resources (that are not provided to you via Canvas) you will not get points for these citations.
 
-**You must also cite more than just the textbook or just my lecture.** There needs be ***AT LEAST*** one other resource cited in addition to the textbook or my lecture for maximum points.
+**You must also cite more than just the textbook or just my lecture.** For example, cite from various sections of the textbook, **AND/OR** cite from various segments of my lectures, **AND** some reading or video or podcast from the learning materials. 
 
-Remember: If you explain basic concepts in a superficial way without clear acknowledgement of course learning material you will do poorly.
 :::
 
 ---
 
 # How Will I Be Evaluated?
 
-You will be evaluated on three dimensions. For a detailed preview of the exact questions and rating system, see the rubric on the submission page for this assignment. 
+You will be evaluated on two dimensions. For a detailed preview of the exact questions and rating system, see the rubric on the submission page for this assignment. 
 
--   **Dimension 1: Overall Writing Quality**
-    - Did the author organize his or her response in a way that is logical and clear? What is easy to follow the flow of ideas across the entire essay?
-    - Do the word choices convey a formal and academic writing style?
-    - How well did the author demonstrate a good grasp of standard writing conventions (e.g., spelling, punctuation, capitalization, grammar, usage, paragraphing)?
--   **Dimension 2: Featuring/Integrating Resources from the Learning Materials**
-    - Did the author attempt to feature resources from the module learning materials in obvious and substantial ways? NOTE: Do not evaluate on whether the resources were used effectively and persuasively, that is for the next item!
--   **Dimension 3: Using Core Ideas to Demonstrate Knowledge**
-    - Did the author provide a knowledgeable and persuasive response that effectively answers the thought question prompt?
+-   **Dimension 1: Content and Organization**
+    - The central claim of the essay is stated in the introduction and developed throughout the essay. 
+    - The ideas in the essay address the writing prompt. 
+    - The ideas in the essay are fully developed.
+    - The ideas are organized in a way that supports the author's arguments.
+-   **Dimension 2: Clarity and Formatting**
+    - Paper follows the formatting guidelines stated in the instructions. 
+    - All sources should be cited.
+    - Citations should draw from at least two course learning resources (textbook, lectures, media, additional readings) and provide sufficient detail.
+    - The sentences in the essay are clear and follow standard English grammar rules. 
 
 :::green
 **Note:** Unless the essay is completely incomprehensible, you will always receive some points for attempting an essay. Just do not turn it in late! 
