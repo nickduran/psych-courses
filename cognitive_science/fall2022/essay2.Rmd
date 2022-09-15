@@ -39,9 +39,27 @@ source('assets/setup.R')
 
 # Formatting Requirements
 
-Length, 2 pages single-spaced; 1” margins; 12 pt., Times New Roman font. You must follow these formatting requirements. When you do so, your essay will be around 650-750 words. If you include a reference section (optional), please submit as a 3rd page.  
-
 Click [HERE](https://docs.google.com/document/d/1F_9jh_6aUHVBTi-6sIf7uGiLi5ByWfGuT4TUOJwydx8/edit?usp=sharing) for an example of how your paper must look when you submit it.
+
+**Level 1:**
+
+1. Spacing: Single-spaced
+2.  Margins: 1” margins
+3. Anonymity: No indication of author's name
+4. Size and font: 12 pt., Times New Roman 
+
+**Level 2:**
+
+1. Length: 650-750 words (typically 2 pages)
+2. Quoted material used sparingly (not to exceed 10%-15% of total word count)
+
+:::blue
+**Level 1** and **Level 2** will be used in the reviewing/assessment rubric. Both levels are important, but problems with Level 2 will have a larger impact on the "Formatting" criteria in the rubric.
+:::
+
+:::green
+**Note:** If you include a reference section (optional), please submit as a 3rd page. 
+:::
 
 :::red
 **Using Quotes**
