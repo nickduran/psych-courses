@@ -1,0 +1,12 @@
+name: "BDSR1"
+output_dir: "../../docs/instructions/fall2022"
+output:
+  bookdown::html_document2:
+    toc: true
+    toc_float: true
+    theme: cosmo
+    highlight: tango
+    number_sections: false
+    include:
+      in_header: assets/toggling.html
+    css: assets/style-labs.css

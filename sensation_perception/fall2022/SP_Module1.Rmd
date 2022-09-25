@@ -1,5 +1,5 @@
 ---
-title: "Short Essay 2 - Instructions"
+title: "Module 1 - Instructions"
 # bibliography: references.bib
 # biblio-style: apalike
 # link-citations: yes
@@ -37,6 +37,17 @@ source('assets/setup.R')
 
 ```
 
+
+# Writing Prompt
+
+:::lo
+
+What is the difference and relationship between sensation and perception? Is there any way to tell whether the world we "see" in our minds is the same as the external world - and whether we see things as most others do? 
+
+:::
+
+---
+
 # Formatting Requirements
 
 Click [HERE](https://docs.google.com/document/d/1F_9jh_6aUHVBTi-6sIf7uGiLi5ByWfGuT4TUOJwydx8/edit?usp=sharing) for an example of how your paper must look when you submit it.
@@ -44,21 +55,16 @@ Click [HERE](https://docs.google.com/document/d/1F_9jh_6aUHVBTi-6sIf7uGiLi5ByWfG
 **Level 1:**
 
 1. Spacing: Single-spaced
-2.  Margins: 1” margins
-3. Anonymity: No indication of author's name
-4. Size and font: 12 pt., Times New Roman 
+2. Margins: 1” margins
+3. Size and font: 12 pt., Times New Roman 
 
 **Level 2:**
 
-1. Length: 650-750 words (typically 2 pages)
-2. Quoted material used sparingly (not to exceed 10%-15% of total word count)
+1. Length: 400-500 words
+2. Quoted material used sparingly (not to exceed 10% of total word count)
 
 :::blue
-**Level 1** and **Level 2** will be used in the reviewing/assessment rubric. Both levels are important, but problems with Level 2 will have a larger impact on the "Formatting" criteria in the rubric.
-:::
-
-:::green
-**Note:** If you include a reference section (optional), please submit as a 3rd page. 
+**Level 1** and **Level 2** will be used in the assessment rubric. Both levels are important, but problems with Level 2 will have a larger impact on evaluation (larger point deductions).
 :::
 
 :::red
@@ -79,67 +85,19 @@ If you are suspected of using a site like Course Hero, or if your essay appears 
 
 ---
 
-# Writing Prompt
-
-For this essay assignment, you have a choice to respond to either Prompt A or Prompt B. Please select one! Remember to use your own words and interpretation. 
-
-:::lo
-***Prompt A:***
-
-There is little doubt that understanding the anatomical and functional properties of the brain is important for understanding cognition. But do you need to understand the brain before you can understand cognition? Based on any of the materials in Modules/Weeks 1-6, I would like you to argue for this seemingly strange claim:
-
-"You DO NOT need the brain to understand the mind."
-:::
-
-:::lo
-***Prompt B:***
-
-Based on any of the materials in Modules/Weeks 1-6, describe the key similarities and differences between the dynamical systems approach to cognition (i.e., "mind as a Watt governor") and the CRUM approach to cognition (i.e., "mind as computation)." In your description, be sure to include the weaknesses of CRUM and discuss the advantages of dynamical systems.
-:::
-
---- 
-
-# Questions to Consider for PROMPT A ONLY
-
-The purpose of Prompt A is to extend your view of the brain and its relationship with understanding cognitive processes and intelligent behavior. Clearly, human cognition requires a brain, but the issue here is whether processes of cognition (i.e., the mind) can be understood without understanding the "where" or "how" of its implementation in the brain. 
-
-The ideas/questions below are designed to prompt your thinking. You do not need to integrate any of the ideas/questions into your responses; but you may find that focusing on one of these issues will help you write a targeted and concise response.
-
-- There are a lot of directions you can go to answer the question. First, consider the notion of a "multiply realizable system." What is it? What does it say about the connection between biological brains, cognition, and intelligence?
-
-- What insights do neural networks provide about cognition? And importantly, even though neural networks are inspired by biological brains, they are also largely abstractions of how the brain actually works. Nevertheless, do they help us understand the mind? If so, how?
-
-- Another direction you might take is to compare/contrast cognitive processes that you believe we understand only because we can study the anatomical/functional properties of the brain versus cognitive processes that we can understand without ever making deep references to the brain’s activity.
-
----
-
-# Questions to Consider for PROMPT B ONLY
-
-We have focused on the idea that cognition emerges via temporal dependencies between mind, body, and environment. The purpose of this prompt is to help you develop a deeper understanding of this essential idea, as captured by dynamical systems theory. Moreover, this prompt provides an opportunity for you to draw on your knowledge of recently learned material (from the previous modules) to uniquely situate dynamical systems theory within a larger explanatory framework of cognitive mechanisms and models. The best responses will include a clear separation of the similarities and differences between dynamical systems and CRUM, and a clear separation of explicitly stated weaknesses of CRUM and advantages of dynamical systems theory.
-
-The ideas/questions below are designed to prompt your thinking. You do not need to integrate any of the ideas/questions into your responses; but you may find that focusing on one of these issues will help you write a targeted and concise response.
-
-- The concepts "mind as a Watt governor" and "mind as a computer" are just metaphors that help shed light on more fundamental, underlying processes. Be sure that you understand the core assumptions each metaphor is trying to get at, and avoid the confusion in thinking that the mind is literally a Watt governor or literally a computer (that would just be silly). I think framing your response around these two metaphors might be helpful.
-
-- For weaknesses and advantages, can you think of particular kinds of cognitive processes (perception, learning, coordinating actions, language comprehension, problem-solving) that dynamical systems might explain better than CRUM? Why? Alternatively, pretend you are an artificial intelligence designer (pretend you are an engineer at Westworld, or a roboticist at Boston Dynamics) and consider why a dynamical systems "mind" might be superior to a CRUM "mind" for your AI creations, particularly for machines that must adapt to unpredictable and chaotic environments.
-
-- For similarities and differences, this really is the focus of all three core readings: Bermudez' textbook, van Gelder's "It's about time" chapter, and Barrett's "Beyond the brain" chapter. If you haven't already, read (or reread) with the thought question in mind.
-
----
-
 # Citing Learning Materials
 
 To make a strong argument, it is critical that you make it clear where you are getting the supporting information from within the module. You don't need to do anything fancy to do so. I do not force you to use APA. But I want you to provide detail.  
 
 For example:
 
-- if you reference the textbook, you need to add something like "Bermudez, page 112" or "Textbook, page 112."
+- if you reference the textbook, you need to add something like "Goldstein, page 112" or "Textbook, page 112."
 
 - if you reference my video lecture, you need to add something like "Lesson 1 Lecture, 4:23" where the "4:32" is roughly where in the video the point is made
 
-- if you reference one of the videos in the module, you would add something like "Steven Pinker video"
+- if you reference one of the videos in the module, you would add something like "Glaucoma National Eye Institute video"
 
-- if you reference one of the readings in the module, you would add something like "'They're made out of meat' article"
+- if you reference one of the readings in the module, you would add something like "Phantom Vibration article"
 
 The exact form that your citation takes is not that important. What is important is that you do your best to show what resources you're using to support your arguments. 
 
@@ -159,7 +117,6 @@ The exact form that your citation takes is not that important. What is important
 You will be evaluated on two dimensions. For a detailed preview of the exact questions and rating system, see the rubric on the submission page for this assignment. 
 
 -   **Dimension 1: Content and Organization**
-    - The central claim of the essay is stated in the introduction and developed throughout the essay. 
     - The ideas in the essay address the writing prompt. 
     - The ideas in the essay are fully developed.
     - The ideas are organized in a way that supports the author's arguments.
@@ -178,6 +135,7 @@ You will be evaluated on two dimensions. For a detailed preview of the exact que
 # General Writing Tips
 
 Lastly, let me give you a peek into what I do when writing about something I don't have a lot of familiarity with. As I read the new materials, watch videos, etc., I always keep the discussion prompt in the back of my mind. Even though I might not completely understand the prompt before consuming the learning materials, I have a vague and incomplete sense of the key terms and general direction of the prompt. Do I like the vagueness? No. Do I come to peace with it? Yes.   
+
 I then write down any potentially interesting ideas, questions, etc., that come up as I consume - and I don't worry if they immediately make perfect sense. I don't try to organize things in any meaningful way at this early stage. It's quick and dirty. My only concern is to dump ideas on paper. 
 
 As I continue doing this, what I inevitably find is that at some point the core concepts and ideas start to emerge on their own, a sort of self-organization. It might come suddenly or it might be gradual, but it always comes. I can then see where there are common themes in my notes. I can see where the examples hang together. And before I know it, I have enough material/ideas to easily generate a few pages of text (usually more). 
@@ -191,8 +149,4 @@ For you procrastinators out there, you are going to have a really, really hard t
 :::green
 **One last thing.** If you are really stuck, or just want some feedback, please make use of the discussion forum in the module. You can also post anonymously if you want (but please keep things friendly).   
 :::
-
-
-
-
 
