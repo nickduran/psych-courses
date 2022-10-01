@@ -1,5 +1,5 @@
 ---
-title: "Module 2 - Instructions"
+title: "Module 3 - Instructions"
 # bibliography: references.bib
 # biblio-style: apalike
 # link-citations: yes
@@ -47,23 +47,17 @@ source('assets/setup.R')
 
 :::lo
 
-It appears you have neurons that respond uniquely to general complex shapes and targeted environmental stimuli, such as faces, bodies, and places. 
+As you can see (no pun intended), our ability to perceive the world around us is incredibly complex - but we also tend to take this ability for granted. So here is a little challenge: 
 
-1. What types of neurons do you think would fire to the stimulus below and why? 
+Imagine you are a vision scientist who has been hired by a small tech company that is designing a new digital camera that can identify and tag objects, people, and scenes in the pictures it takes (similar to how a human would). Your job is to explain the following to the developers:
 
-2. And what do you think someone with prosopagnosia or Charles Bonnet syndrome might experience? 
+1. What kinds of challenges will they face? 
+
+2. How do humans overcome those challenges?
 
 *Use at least two examples from the course learning materials in formulating your response. Be sure to cite your examples in the way described below!*
 
 :::
-
-```{r, echo=FALSE,out.width="65%", out.height="20%",fig.cap="Octavio Campo - 'Por Siempre'",fig.show='hold',fig.align='center'}
-# knitr::include_graphics(c("Picture1.jpeg", "Picture2.png")) 
-knitr::include_graphics(c("Picture2.jpg"))
-
-```
-
-<!-- ![alt text here](Picture3.jpg) -->
 
 ---
 
