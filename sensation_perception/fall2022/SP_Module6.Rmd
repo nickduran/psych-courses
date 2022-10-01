@@ -1,5 +1,5 @@
 ---
-title: "Module 5 - Instructions"
+title: "Module 6 - Instructions"
 # bibliography: references.bib
 # biblio-style: apalike
 # link-citations: yes
@@ -42,13 +42,13 @@ source('assets/setup.R')
 
 :::lo
 
-Please respond to the following:
+**Please respond to the following:**
 
-Expanding on the "This American Life" interview (in the Readings and Media page), why do you think some people born deaf choose not to have their hearing restored with a cochlear implant? 
+Discuss some of the ways professional athletes, as compared to non-professionals, might have enhanced abilities in processing motion. How might this vary across different kinds of sports? 
 
-To answer effectively, the response must incorporate physiological, perceptual, and/or experimental evidence from module resources. **Please do not provide personal anecdotes.**  
+*Use at least two examples from the course learning materials in formulating your response. Be sure to cite your examples in the way described below!* 
 
-*Use at least two examples from the course learning materials in formulating your response. Be sure to cite your examples in the way described below!*
+**Tip:** *You can go in many directions in your response, but you there is a section in Chapter 7 that might prove very helpful.*  
 
 :::
 
