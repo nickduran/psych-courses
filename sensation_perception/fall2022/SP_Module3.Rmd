@@ -40,11 +40,6 @@ source('assets/setup.R')
 
 # Writing Prompt
 
-```{r, include=FALSE}
-# What is the difference and relationship between sensation and perception? Is there any way to tell whether the world we “see” in our minds is the same as the external world - and whether we see things as most others do?
-```
-
-
 :::lo
 
 As you can see (no pun intended), our ability to perceive the world around us is incredibly complex - but we also tend to take this ability for granted. So here is a little challenge: 

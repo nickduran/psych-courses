@@ -1,0 +1,423 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Module 4 - Instructions</title>
+
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/cosmo.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<script>
+function toggle_visibility(id1, id2) {
+var e = document.getElementById(id1);
+var f = document.getElementById(id2);
+e.style.display = ((e.style.display!='none') ? 'none' : 'block');
+if(f.classList.contains('fa-chevron-circle-right')) {
+    f.classList.add('fa-chevron-circle-down')
+    f.classList.remove('fa-chevron-circle-right')
+} else {
+    f.classList.add('fa-chevron-circle-right')
+    f.classList.remove('fa-chevron-circle-down')
+}
+}
+</script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+
+
+
+
+
+
+<link rel="stylesheet" href="assets/style-labs.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Module 4 - Instructions</h1>
+
+</div>
+
+
+<div id="writing-prompt" class="section level1">
+<h1>Writing Prompt</h1>
+<div class="lo">
+<p>Think about what physiological or neural impairments could prevent someone from being able to see in color (black and white only) or prevent someone from using stereoscopic binocular vision as a depth cue.</p>
+<p>If you had to wake up tomorrow with one of these impairments, which would you chose and why? Justify your choice by explaining how these impairments would affect your perception and what can be done to fix or adapt to them.</p>
+<p><em>Use at least two examples from the course learning materials in formulating your response. Be sure to cite your examples in the way described below!</em></p>
+</div>
+<hr />
+</div>
+<div id="formatting-requirements" class="section level1">
+<h1>Formatting Requirements</h1>
+<p>Click <a href="https://docs.google.com/document/d/1-9LcP6mh1vwsbEQvVwc6biocVDLbpDbAq_oYnGe9O_s/edit?usp=sharing">HERE</a> for an example of how your paper must look when you submit it.</p>
+<p><strong>Level 1:</strong></p>
+<ol style="list-style-type: decimal">
+<li>Spacing: Single-spaced</li>
+<li>Margins: 1” margins</li>
+<li>Size and font: 12 pt., Times New Roman</li>
+</ol>
+<p><strong>Level 2:</strong></p>
+<ol style="list-style-type: decimal">
+<li>Length: 350-500 words</li>
+<li>Quoted material used sparingly (not to exceed 10% of total word count)</li>
+</ol>
+<div class="blue">
+<p><strong>Level 1</strong> and <strong>Level 2</strong> will be used in the assessment rubric. Both levels are important, but problems with Level 2 will have a larger impact on evaluation (larger point deductions).</p>
+</div>
+<div class="red">
+<p><strong>Using Quotes</strong></p>
+<p>When you quote material from the textbook or other learning materials, please be aware that <strong>quoted text WILL NOT count toward the word count of the essay word limit.</strong> I prefer no quoted material at all. I want your own words, ideas, and interpretation.</p>
+</div>
+<div class="red">
+<p><strong>Plagiarism</strong></p>
+<p>I take plagiarism seriously. All papers are automatically checked for plagiarism using online tools and the course assistants are on high alert for anything suspicious.</p>
+<p>I am also well aware of sites like Course Hero. I have a database of MANY online essays based on my course that I cross-check against. The algorithms are also very good at detecting if words are strategically swapped out to try to trick the algorithms.</p>
+<p>If you are suspected of using a site like Course Hero, or if your essay appears plagiarized from other sources, do not worry as I always reach out to students first to discuss what might have happened. If we cannot resolve things, or if the plagiarism is just blatant and overwhelming, I have no other choice but to report the issue to <a href="https://provost.asu.edu/academic-integrity">ASU’s Office of Academic Integrity</a> for follow-up.</p>
+</div>
+<hr />
+</div>
+<div id="citing-learning-materials" class="section level1">
+<h1>Citing Learning Materials</h1>
+<p>To make a strong argument, it is critical that you make it clear where you are getting the supporting information from within the module. You don’t need to do anything fancy to do so. I do not force you to use APA. But I want you to provide detail.</p>
+<p>For example:</p>
+<ul>
+<li><p>if you reference the textbook, you need to add something like “Goldstein, page 112” or “Textbook, page 112.”</p></li>
+<li><p>if you reference my video lecture, you need to add something like “Lesson 1 Lecture, 4:23” where the “4:32” is roughly where in the video the point is made</p></li>
+<li><p>if you reference one of the videos in the module, you would add something like “Glaucoma National Eye Institute video”</p></li>
+<li><p>if you reference one of the readings in the module, you would add something like “Phantom Vibration article”</p></li>
+</ul>
+<p>The exact form that your citation takes is not that important. What is important is that you do your best to show what resources you’re using to support your arguments.</p>
+<div class="red">
+<p><strong>CRITICAL CONSIDERATIONS</strong></p>
+<p><strong>No external resources should ever be cited.</strong> If you cite external resources (that are not provided to you via Canvas) you will not get points for these citations.</p>
+<p><strong>You must also cite more than just the textbook or just my lecture.</strong> For example, cite from various sections of the textbook, <strong>AND/OR</strong> cite from various segments of my lectures, <strong>AND</strong> some reading or video or podcast from the learning materials.</p>
+</div>
+<hr />
+</div>
+<div id="how-will-i-be-evaluated" class="section level1">
+<h1>How Will I Be Evaluated?</h1>
+<p>You will be evaluated on two dimensions. For a detailed preview of the exact questions and rating system, see the rubric on the submission page for this assignment.</p>
+<ul>
+<li><strong>Dimension 1: Content and Organization</strong>
+<ul>
+<li>The ideas in the essay address the writing prompt.</li>
+<li>The ideas in the essay are fully developed.</li>
+<li>The ideas are organized in a way that supports the author’s arguments.</li>
+</ul></li>
+<li><strong>Dimension 2: Clarity and Formatting</strong>
+<ul>
+<li>Paper follows the formatting guidelines stated in the instructions.</li>
+<li>All sources should be cited.</li>
+<li>Citations should draw from at least two course learning resources (textbook, lectures, media, additional readings) and provide sufficient detail.</li>
+<li>The sentences in the essay are clear and follow standard English grammar rules.</li>
+</ul></li>
+</ul>
+<div class="green">
+<p><strong>Note:</strong> Unless the essay is completely incomprehensible, you will always receive some points for attempting an essay. Just do not turn it in late!</p>
+</div>
+<hr />
+</div>
+<div id="general-writing-tips" class="section level1">
+<h1>General Writing Tips</h1>
+<p>Lastly, let me give you a peek into what I do when writing about something I don’t have a lot of familiarity with. As I read the new materials, watch videos, etc., I always keep the discussion prompt in the back of my mind. Even though I might not completely understand the prompt before consuming the learning materials, I have a vague and incomplete sense of the key terms and general direction of the prompt. Do I like the vagueness? No. Do I come to peace with it? Yes.</p>
+<p>I then write down any potentially interesting ideas, questions, etc., that come up as I consume - and I don’t worry if they immediately make perfect sense. I don’t try to organize things in any meaningful way at this early stage. It’s quick and dirty. My only concern is to dump ideas on paper.</p>
+<p>As I continue doing this, what I inevitably find is that at some point the core concepts and ideas start to emerge on their own, a sort of self-organization. It might come suddenly or it might be gradual, but it always comes. I can then see where there are common themes in my notes. I can see where the examples hang together. And before I know it, I have enough material/ideas to easily generate a few pages of text (usually more).</p>
+<div class="blue">
+<p><strong>Note:</strong> For you perfectionists out there, I am not looking for perfection. I am looking for evidence of sincere effort to understand things. Trust me, it comes through in your writing.</p>
+<p>For you procrastinators out there, you are going to have a really, really hard time if you wait until the last minute. When students do not consume the material in the way I described above, it is painfully obvious.</p>
+</div>
+<div class="green">
+<p><strong>One last thing.</strong> If you are really stuck, or just want some feedback, please make use of the discussion forum in the module. You can also post anonymously if you want (but please keep things friendly).</p>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

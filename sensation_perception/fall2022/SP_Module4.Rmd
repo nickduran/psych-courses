@@ -1,5 +1,5 @@
 ---
-title: "Module 2 - Instructions"
+title: "Module 4 - Instructions"
 # bibliography: references.bib
 # biblio-style: apalike
 # link-citations: yes
@@ -42,23 +42,13 @@ source('assets/setup.R')
 
 :::lo
 
-It appears you have neurons that respond uniquely to general complex shapes and targeted environmental stimuli, such as faces, bodies, and places. 
+Think about what physiological or neural impairments could prevent someone from being able to see in color (black and white only) or prevent someone from using stereoscopic binocular vision as a depth cue. 
 
-1. What types of neurons do you think would fire to the stimulus below and why? 
-
-2. And what do you think someone with prosopagnosia or Charles Bonnet syndrome might experience? 
+If you had to wake up tomorrow with one of these impairments, which would you chose and why?  Justify your choice by explaining how these impairments would affect your perception and what can be done to fix or adapt to them.
 
 *Use at least two examples from the course learning materials in formulating your response. Be sure to cite your examples in the way described below!*
 
 :::
-
-```{r, echo=FALSE,out.width="65%", out.height="20%",fig.cap="Octavio Campo - 'Por Siempre'",fig.show='hold',fig.align='center'}
-# knitr::include_graphics(c("Picture1.jpeg", "Picture2.png")) 
-knitr::include_graphics(c("Picture2.jpg"))
-
-```
-
-<!-- ![alt text here](Picture3.jpg) -->
 
 ---
 
