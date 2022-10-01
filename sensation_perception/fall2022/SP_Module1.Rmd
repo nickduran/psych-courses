@@ -40,9 +40,20 @@ source('assets/setup.R')
 
 # Writing Prompt
 
+```{r, include=FALSE}
+# What is the difference and relationship between sensation and perception? Is there any way to tell whether the world we “see” in our minds is the same as the external world - and whether we see things as most others do?
+```
+
+
 :::lo
 
-What is the difference and relationship between sensation and perception? Is there any way to tell whether the world we "see" in our minds is the same as the external world - and whether we see things as most others do? 
+Answer the following:
+
+1. What is the relationship between sensation and perception? 
+
+2. Is there any way to tell whether the world we "see" in our minds is the same as the external world? Why or why not?
+
+Use at least two examples from the course learning materials in formulating your response. Be sure to cite your examples in the way described below!  
 
 :::
 
@@ -50,7 +61,7 @@ What is the difference and relationship between sensation and perception? Is the
 
 # Formatting Requirements
 
-Click [HERE](https://docs.google.com/document/d/1F_9jh_6aUHVBTi-6sIf7uGiLi5ByWfGuT4TUOJwydx8/edit?usp=sharing) for an example of how your paper must look when you submit it.
+Click [HERE](https://docs.google.com/document/d/1-9LcP6mh1vwsbEQvVwc6biocVDLbpDbAq_oYnGe9O_s/edit?usp=sharing) for an example of how your paper must look when you submit it.
 
 **Level 1:**
 
@@ -60,7 +71,7 @@ Click [HERE](https://docs.google.com/document/d/1F_9jh_6aUHVBTi-6sIf7uGiLi5ByWfG
 
 **Level 2:**
 
-1. Length: 400-500 words
+1. Length: 350-500 words
 2. Quoted material used sparingly (not to exceed 10% of total word count)
 
 :::blue
