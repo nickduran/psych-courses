@@ -1,0 +1,158 @@
+---
+title: "Module 4 - Instructions"
+# bibliography: references.bib
+# biblio-style: apalike
+# link-citations: yes
+params: 
+    SHOW_SOLS: FALSE # if i wanted to give solutions, could toggle back on. 
+    TOGGLE: TRUE
+# output:
+#   bookdown::html_document2:
+#     toc: true
+#     toc_float: true
+#     theme: cosmo
+#     highlight: tango
+#     number_sections: false
+#     include:
+#       in_header: assets/toggling.html
+#     #   after_body: https://uoepsy.github.io/assets/ccfooter.html
+#     css: assets/style-labs.css
+---
+
+```{r setup, include=FALSE}
+source('assets/setup.R')
+
+# ```{r setup, include = FALSE}
+# knitr::opts_chunk$set(eval = TRUE)
+# ```
+
+# :::red : use for pre-lab activity instructions
+# :::lo : use for outlining the learning objectives
+# :::green : use for tips on how to complete the task
+# :::yellow : use for additional information on how to use R that does not directly have anything to do with the assignment tasks
+# :::frame : use when want to set some additional instructions/code/examples apart from the assignment task when explaining something about how to use R
+
+# :::blue : same color as question box background. Not sure how much this needs to be used. 
+# :::statbox : looks a lot like yellow
+
+```
+
+
+# Writing Prompt
+
+:::lo
+
+Please respond to the following:
+
+Expanding on the "This American Life" interview (in the Readings and Media page), why do you think some people born deaf choose not to have their hearing restored with a cochlear implant? 
+
+To answer effectively, the response must incorporate physiological, perceptual, and/or experimental evidence from module resources. **Please do not provide personal anecdotes.**  
+
+*Use at least two examples from the course learning materials in formulating your response. Be sure to cite your examples in the way described below!*
+
+:::
+
+---
+
+# Formatting Requirements
+
+Click [HERE](https://docs.google.com/document/d/1-9LcP6mh1vwsbEQvVwc6biocVDLbpDbAq_oYnGe9O_s/edit?usp=sharing) for an example of how your paper must look when you submit it.
+
+**Level 1:**
+
+1. Spacing: Single-spaced
+2. Margins: 1” margins
+3. Size and font: 12 pt., Times New Roman 
+
+**Level 2:**
+
+1. Length: 350-500 words
+2. Quoted material used sparingly (not to exceed 10% of total word count)
+
+:::blue
+**Level 1** and **Level 2** will be used in the assessment rubric. Both levels are important, but problems with Level 2 will have a larger impact on evaluation (larger point deductions).
+:::
+
+:::red
+**Using Quotes**
+
+When you quote material from the textbook or other learning materials, please be aware that **quoted text WILL NOT count toward the word count of the essay word limit.** I prefer no quoted material at all. I want your own words, ideas, and interpretation. 
+:::
+
+:::red
+**Plagiarism**
+
+I take plagiarism seriously. All papers are automatically checked for plagiarism using online tools and the course assistants are on high alert for anything suspicious. 
+
+I am also well aware of sites like Course Hero. I have a database of MANY online essays based on my course that I cross-check against. The algorithms are also very good at detecting if words are strategically swapped out to try to trick the algorithms. 
+
+If you are suspected of using a site like Course Hero, or if your essay appears plagiarized from other sources, do not worry as I always reach out to students first to discuss what might have happened. If we cannot resolve things, or if the plagiarism is just blatant and overwhelming, I have no other choice but to report the issue to [ASU's Office of Academic Integrity](https://provost.asu.edu/academic-integrity) for follow-up.  
+:::
+
+---
+
+# Citing Learning Materials
+
+To make a strong argument, it is critical that you make it clear where you are getting the supporting information from within the module. You don't need to do anything fancy to do so. I do not force you to use APA. But I want you to provide detail.  
+
+For example:
+
+- if you reference the textbook, you need to add something like "Goldstein, page 112" or "Textbook, page 112."
+
+- if you reference my video lecture, you need to add something like "Lesson 1 Lecture, 4:23" where the "4:32" is roughly where in the video the point is made
+
+- if you reference one of the videos in the module, you would add something like "Glaucoma National Eye Institute video"
+
+- if you reference one of the readings in the module, you would add something like "Phantom Vibration article"
+
+The exact form that your citation takes is not that important. What is important is that you do your best to show what resources you're using to support your arguments. 
+
+:::red
+**CRITICAL CONSIDERATIONS**
+
+**No external resources should ever be cited.** If you cite external resources (that are not provided to you via Canvas) you will not get points for these citations.
+
+**You must also cite more than just the textbook or just my lecture.** For example, cite from various sections of the textbook, **AND/OR** cite from various segments of my lectures, **AND** some reading or video or podcast from the learning materials. 
+
+:::
+
+---
+
+# How Will I Be Evaluated?
+
+You will be evaluated on two dimensions. For a detailed preview of the exact questions and rating system, see the rubric on the submission page for this assignment. 
+
+-   **Dimension 1: Content and Organization**
+    - The ideas in the essay address the writing prompt. 
+    - The ideas in the essay are fully developed.
+    - The ideas are organized in a way that supports the author's arguments.
+-   **Dimension 2: Clarity and Formatting**
+    - Paper follows the formatting guidelines stated in the instructions. 
+    - All sources should be cited.
+    - Citations should draw from at least two course learning resources (textbook, lectures, media, additional readings) and provide sufficient detail.
+    - The sentences in the essay are clear and follow standard English grammar rules. 
+
+:::green
+**Note:** Unless the essay is completely incomprehensible, you will always receive some points for attempting an essay. Just do not turn it in late! 
+:::
+
+---
+
+# General Writing Tips
+
+Lastly, let me give you a peek into what I do when writing about something I don't have a lot of familiarity with. As I read the new materials, watch videos, etc., I always keep the discussion prompt in the back of my mind. Even though I might not completely understand the prompt before consuming the learning materials, I have a vague and incomplete sense of the key terms and general direction of the prompt. Do I like the vagueness? No. Do I come to peace with it? Yes.   
+
+I then write down any potentially interesting ideas, questions, etc., that come up as I consume - and I don't worry if they immediately make perfect sense. I don't try to organize things in any meaningful way at this early stage. It's quick and dirty. My only concern is to dump ideas on paper. 
+
+As I continue doing this, what I inevitably find is that at some point the core concepts and ideas start to emerge on their own, a sort of self-organization. It might come suddenly or it might be gradual, but it always comes. I can then see where there are common themes in my notes. I can see where the examples hang together. And before I know it, I have enough material/ideas to easily generate a few pages of text (usually more). 
+
+:::blue
+**Note:** For you perfectionists out there, I am not looking for perfection. I am looking for evidence of sincere effort to understand things. Trust me, it comes through in your writing. 
+
+For you procrastinators out there, you are going to have a really, really hard time if you wait until the last minute. When students do not consume the material in the way I described above, it is painfully obvious.  
+:::
+
+:::green
+**One last thing.** If you are really stuck, or just want some feedback, please make use of the discussion forum in the module. You can also post anonymously if you want (but please keep things friendly).   
+:::
+
