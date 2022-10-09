@@ -47,13 +47,15 @@ source('assets/setup.R')
 
 :::lo
 
-Answer the following:
+**PLEASE RESPOND TO THE FOLLOWING:**
 
 1. What is the relationship between sensation and perception? 
 
 2. Is there any way to tell whether the world we "see" in our minds is the same as the external world? Why or why not?
 
-Use at least two examples from the course learning materials in formulating your response. Be sure to cite your examples in the way described below!  
+*Use at least two examples from the course learning materials in formulating your response. Be sure to cite your examples in the way described below!*
+
+**Important Note:** You are writing an argumentative essay that should rely on facts, mechanisms, and/or theories. DO NOT give anecdotes, personal opinion, or commentary pulled from thin air. Using your own examples from time to time is OK if it helps bring clarity to some specific argument/point. But I want evidence that you interacted with the learning materials!
 
 :::
 

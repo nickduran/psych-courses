@@ -42,11 +42,11 @@ source('assets/setup.R')
 
 :::lo
 
-Please respond to the following:
+**PLEASE RESPOND TO THE FOLLOWING:**
 
-Expanding on the "This American Life" interview (in the Readings and Media page), why do you think some people born deaf choose not to have their hearing restored with a cochlear implant? 
+1. Expanding on the "This American Life" interview (in the Readings and Media page), why do you think some people born deaf choose not to have their hearing restored with a cochlear implant? 
 
-To answer effectively, the response must incorporate physiological, perceptual, and/or experimental evidence from module resources. **Please do not provide personal anecdotes.**  
+Your response needs to be based on physiological, perceptual, and/or experimental evidence from module resources. DO NOT provide anecdotes, personal opinion, or emotional reactions!
 
 *Use at least two examples from the course learning materials in formulating your response. Be sure to cite your examples in the way described below!*
 

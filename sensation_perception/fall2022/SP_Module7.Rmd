@@ -1,5 +1,5 @@
 ---
-title: "Module 2 - Instructions"
+title: "Module 7 - Instructions"
 # bibliography: references.bib
 # biblio-style: apalike
 # link-citations: yes
@@ -42,25 +42,17 @@ source('assets/setup.R')
 
 :::lo
 
-It appears you have neurons that respond uniquely to general complex shapes and targeted environmental stimuli, such as faces, bodies, and places. 
+Across people and cultures, food preferences can greatly vary. For example, in some cultures, century eggs ([which have an odor like sulphur and ammonia](http://en.wikipedia.org/wiki/Century_egg)) are considered a delicacy, but not so much Limburger cheese ([which has a strong pungent odor of sweaty feet](http://en.wikipedia.org/wiki/Limburger)). But don't go insulting Limburger cheese in Belgium where it's highly popular. 
 
-1. What types of neurons do you think would fire to the picture below and why? 
+**Please respond to the following:**
 
-2. And what do you think someone with prosopagnosia or Charles Bonnet syndrome might experience? 
+1. How do physiological and perceptual factors explain the wide range in food preferences that exist across cultures and people? In your response, DO NOT give your personal opinion about foods you enjoy or do not enjoy. Physiological and perceptual factors only!
 
-*Use at least two examples from the course learning materials in formulating your response. Be sure to cite your examples in the way described below!*
+*Use at least two examples from the course learning materials in formulating your response. Be sure to cite your examples in the way described below!* 
 
-**Important Note:** You are writing an argumentative essay that should rely on facts, mechanisms, and/or theories. DO NOT give anecdotes, personal opinion, or commentary pulled from thin air. Using your own examples from time to time is OK if it helps bring clarity to some specific argument/point. But I want evidence that you interacted with the learning materials!
+**IMPORTANT NOTE:**  In your response you are showing that you interacted with the course materials in a meaningful way.
 
 :::
-
-```{r, echo=FALSE,out.width="65%", out.height="20%",fig.cap="Octavio Campo - 'Por Siempre'",fig.show='hold',fig.align='center'}
-# knitr::include_graphics(c("Picture1.jpeg", "Picture2.png")) 
-knitr::include_graphics(c("Picture2.jpg"))
-
-```
-
-<!-- ![alt text here](Picture3.jpg) -->
 
 ---
 
