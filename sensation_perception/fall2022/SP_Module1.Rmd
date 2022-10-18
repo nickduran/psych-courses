@@ -47,7 +47,7 @@ source('assets/setup.R')
 
 :::lo
 
-**PLEASE RESPOND TO THE FOLLOWING:**
+**PLEASE RESPOND TO ALL OF THE FOLLOWING AS AN INTEGRATED RESPONSE:**
 
 1. What is the relationship between sensation and perception? 
 
