@@ -37,9 +37,9 @@ source('assets/setup.R')
 
 ```
 
-# You Must Use Google Docs to Prepare the Essay! 
+# You Must Use Google Docs to Prepare this Essay! 
 
-You must use [Google Docs](INSERT HERE) in all steps of preparing your document (e.g, notes, drafts). 
+You must use [Google Docs](INSERT HERE) in all steps of preparing your document.
 
 All ASU students have free access to Google Drive (which includes Google Docs). If you have never used Google Drive/Docs, or would like a reminder on how to access [CLICK HERE](INSERT HERE).
 
@@ -50,7 +50,7 @@ Once you have a final version of your essay, within Google Docs, you will go to:
 
 Whichever download choice you use, this file is what you will submit on Canvas.   
 
-**And lastly - THIS STEP IS CRITICAL - you will share your Google Doc with your assigned Course Assistant. [Go here for instructions](INSERT HERE).** 
+**And lastly - THIS STEP IS CRITICAL - you will share your Google Doc with your assigned Course Assistant giving them an "Editor" role. [Go here for instructions](INSERT HERE).** 
 
 :::green
 **Why are we doing this?** 
@@ -60,7 +60,14 @@ I love chatGPT and think it's an incredible research and writing tool. As a stud
 
 # Formatting Requirements
 
-Length, 2 pages single-spaced; 1” margins; 12 pt., Times New Roman font. You must follow these formatting requirements. When you do so, your essay will be around 750-850 words. If you include a reference section (optional), please submit as a 3rd page.  
+Your essay must adhere to the following criteria:
+
+- A length of 2 pages single-spaced; 
+- 1” margins; 
+- 12 pt. size font;
+- Times New Roman font. 
+
+You must follow these formatting requirements. When you do so, your essay will be around 750-850 words. If you include a reference section (optional), please submit as a 3rd page.  
 
 Click [HERE](https://docs.google.com/document/d/19noAMOTqzjI1OV_QGa5nKtZ-R4kJbQ4n5PxP-Es8o2w/edit?usp=sharing) for an example of how your paper must look when you submit it.
 
@@ -70,21 +77,22 @@ Click [HERE](https://docs.google.com/document/d/19noAMOTqzjI1OV_QGa5nKtZ-R4kJbQ4
 When you quote material from the textbook or other learning materials, please be aware that **quoted text WILL NOT count toward the word count of the essay word limit.** I prefer no quoted material at all. I want your own words, ideas, and interpretation. 
 :::
 
-:::red
-**Plagiarism**
+# Note on Plagiarism
 
 I take plagiarism seriously. All papers are automatically checked for plagiarism using online tools and the course assistants are on high alert for anything suspicious. 
 
 I am also well aware of sites like Course Hero. I have a database of MANY online essays based on my course that I cross-check against. The algorithms are also very good at detecting if words are strategically swapped out to try to trick the algorithms. 
 
 **If you are suspected of using a site like Course Hero, or if your essay appears plagiarized from other sources, or it looks like you have used chatGPT and your version history matches a pattern of doing so**, you will receive an email from me. I always reach out to students first to discuss what might have happened. If we cannot resolve things, or if the plagiarism is just blatant and overwhelming, I have no other choice but to report the issue to [ASU's Office of Academic Integrity](https://provost.asu.edu/academic-integrity) for follow-up.  
-:::
+
 
 ---
 
 # Writing Prompt
 
-Ok- We finally get to what you need to write about. Please respond to the following prompt using your own words and interpretation. 
+Ok- We finally get to what you need to write about! 
+
+Please respond to the following prompt using your own words and interpretation. 
 
 :::lo
 It is claimed that representations are one of the fundamental explanatory tools of cognitive science. Based on the learning materials in Modules 1 and 2, describe ways that cognitive scientists have thought about how representations code information about the environment. In your description, be sure to include examples of how these representations might be manipulated and transformed.
