@@ -1,5 +1,5 @@
 ---
-title: "Short Essay I - Instructions - FALL/SPRING"
+title: "Short Essay I - Instructions - Summer"
 # bibliography: references.bib
 # biblio-style: apalike
 # link-citations: yes
@@ -37,9 +37,30 @@ source('assets/setup.R')
 
 ```
 
+# You Must Use Google Docs to Prepare the Essay! 
+
+You must use [Google Docs](INSERT HERE) in all steps of preparing your document (e.g, notes, drafts). 
+
+All ASU students have free access to Google Drive (which includes Google Docs). If you have never used Google Drive/Docs, or would like a reminder on how to access [CLICK HERE](INSERT HERE).
+
+Once you have a final version of your essay, within Google Docs, you will go to:
+
+- File > Download > Microsoft Word (.docx); or 
+- File > Download > PDF Document (.pdf)
+
+Whichever download choice you use, this file is what you will submit on Canvas.   
+
+**And lastly - THIS STEP IS CRITICAL - you will share your Google Doc with your assigned Course Assistant. [Go here for instructions](INSERT HERE).** 
+
+:::green
+**Why are we doing this?** 
+
+I love chatGPT and think it's an incredible research and writing tool. As a student of cognitive science, and as you learn more about information processing, it should take on greater relevance as you think about how we think. However, there is a strong temptation to bypass this thinking and dump it all on chatGPT. You should not, you must not, give into the temptation. There is real value in developing your own ideas over time in a process of drafting, revising, and editing. Google Docs records every time you hit "save" as a "version history." By scanning someone's version history, it is obvious whether you were developing your own ideas over time versus  copy/pasting large chunks of chatGPT output.   
+:::
+
 # Formatting Requirements
 
-Length, 2 pages single-spaced; 1” margins; 12 pt., Times New Roman font. You must follow these formatting requirements. When you do so, your essay will be around 650-750 words. If you include a reference section (optional), please submit as a 3rd page.  
+Length, 2 pages single-spaced; 1” margins; 12 pt., Times New Roman font. You must follow these formatting requirements. When you do so, your essay will be around 750-850 words. If you include a reference section (optional), please submit as a 3rd page.  
 
 Click [HERE](https://docs.google.com/document/d/19noAMOTqzjI1OV_QGa5nKtZ-R4kJbQ4n5PxP-Es8o2w/edit?usp=sharing) for an example of how your paper must look when you submit it.
 
@@ -56,14 +77,14 @@ I take plagiarism seriously. All papers are automatically checked for plagiarism
 
 I am also well aware of sites like Course Hero. I have a database of MANY online essays based on my course that I cross-check against. The algorithms are also very good at detecting if words are strategically swapped out to try to trick the algorithms. 
 
-If you are suspected of using a site like Course Hero, or if your essay appears plagiarized from other sources, do not worry as I always reach out to students first to discuss what might have happened. If we cannot resolve things, or if the plagiarism is just blatant and overwhelming, I have no other choice but to report the issue to [ASU's Office of Academic Integrity](https://provost.asu.edu/academic-integrity) for follow-up.  
+**If you are suspected of using a site like Course Hero, or if your essay appears plagiarized from other sources, or it looks like you have used chatGPT and your version history matches a pattern of doing so**, you will receive an email from me. I always reach out to students first to discuss what might have happened. If we cannot resolve things, or if the plagiarism is just blatant and overwhelming, I have no other choice but to report the issue to [ASU's Office of Academic Integrity](https://provost.asu.edu/academic-integrity) for follow-up.  
 :::
 
 ---
 
 # Writing Prompt
 
-Please respond to the following prompt using your own words and interpretation. 
+Ok- We finally get to what you need to write about. Please respond to the following prompt using your own words and interpretation. 
 
 :::lo
 It is claimed that representations are one of the fundamental explanatory tools of cognitive science. Based on the learning materials in Modules 1 and 2, describe ways that cognitive scientists have thought about how representations code information about the environment. In your description, be sure to include examples of how these representations might be manipulated and transformed.
@@ -110,7 +131,7 @@ The exact form that your citation takes is not that important. What is important
 
 # How Will I Be Evaluated?
 
-You will be evaluated on two dimensions. For a detailed preview of the exact questions and rating system, see the rubric on the submission page for this assignment. 
+You will be evaluated on three dimensions. For a detailed preview of the exact questions and rating system, see the rubric on the submission page for this assignment. 
 
 -   **Dimension 1: Content and Organization**
     - The central claim of the essay is stated in the introduction and developed throughout the essay. 
@@ -145,7 +166,7 @@ The ideas/questions below are designed to prime the pump in your ol' brain. You 
 
 # General Writing Tips
 
-Lastly, let me give you a peek into what I do when writing about something I don't have a lot of familiarity with. As I read the new materials, watch videos, etc., I always keep the discussion prompt in the back of my mind. Even though I might not completely understand the prompt before consuming the learning materials, I have a vague and incomplete sense of the key terms and general direction of the prompt. Do I like the vagueness? No. Do I come to peace with it? Yes.   
+Lastly, let me give you a peak into what I do when writing about something I don't have a lot of familiarity with. As I read the new materials, watch videos, etc., I always keep the discussion prompt in the back of my mind. Even though I might not completely understand the prompt before consuming the learning materials, I have a vague and incomplete sense of the key terms and general direction of the prompt. Do I like the vagueness? No. Do I come to peace with it? Yes.   
 
 I then write down any potentially interesting ideas, questions, etc., that come up as I consume - and I don't worry if they immediately make perfect sense. I don't try to organize things in any meaningful way at this early stage. It's quick and dirty. My only concern is to dump ideas on paper. 
 
