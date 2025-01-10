@@ -1,22 +1,8 @@
 ---
-title: "Short Essay I - Instructions - Summer"
-# bibliography: references.bib
-# biblio-style: apalike
-# link-citations: yes
-params: 
-    SHOW_SOLS: FALSE # if i wanted to give solutions, could toggle back on. 
-    TOGGLE: TRUE
-# output:
-#   bookdown::html_document2:
-#     toc: true
-#     toc_float: true
-#     theme: cosmo
-#     highlight: tango
-#     number_sections: false
-#     include:
-#       in_header: assets/toggling.html
-#     #   after_body: https://uoepsy.github.io/assets/ccfooter.html
-#     css: assets/style-labs.css
+title: "Short Essay I - Instructions"
+params:
+  SHOW_SOLS: false
+  TOGGLE: true
 ---
 
 ```{r setup, include=FALSE}
