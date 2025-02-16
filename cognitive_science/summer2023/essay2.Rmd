@@ -39,9 +39,14 @@ source('assets/setup.R')
 
 # You Must Use Google Docs to Prepare this Essay! 
 
-You must use [Google Docs](https://drive.google.com) in all steps of preparing your document.
+You must use [Google Docs](https://workspace.google.com/products/drive/) in all steps of preparing your document.
 
-All ASU students have free access to Google Drive (which includes Google Docs). If you have never used Google Drive/Docs, or would like a reminder on how to access [CLICK HERE FOR A TEXT DOCUMENT](https://asu.secure.force.com/kb/articles/FAQ/How-Do-I-Use-Google-Drive#:~:text=On%20your%20computer%2C%20go%20to,Slides%2C%20and%20Forms%20you%20create) or [CLICK HERE TO WATCH A VIDEO](https://mediaplus.asu.edu/embedded?id=6c87f648-142a-4d1a-9a43-5e9dc9aa09b5&siteId=61e0606e-415d-4001-8206-ffde48430c64).
+All ASU students have free access to Google Drive (which includes Google Docs). To access:
+
+On your computer, go to drive.google.com. Sign in with your ASURITE credentials and you’ll see My Drive which has:
+
+- Files and folders you upload or sync
+- Google Docs, Sheets, Slides, and Forms you create
 
 Once you have a final version of your essay, within Google Docs, you will go to:
 
@@ -166,16 +171,18 @@ The exact form that your citation takes is not that important. What is important
 
 # How Will I Be Evaluated?
 
-You will be evaluated on three dimensions. For a detailed preview of the exact questions and rating system, see the rubric on the submission page for this assignment. 
+You will be evaluated on two dimensions. For a detailed preview of the exact questions and rating system, see the rubric on the submission page for this assignment. 
 
--   **Dimension 1: Overall Writing Quality**
-    - Did the author organize his or her response in a way that is logical and clear? What is easy to follow the flow of ideas across the entire essay?
-    - Do the word choices convey a formal and academic writing style?
-    - How well did the author demonstrate a good grasp of standard writing conventions (e.g., spelling, punctuation, capitalization, grammar, usage, paragraphing)?
--   **Dimension 2: Featuring/Integrating Resources from the Learning Materials**
-    - Did the author attempt to feature resources from the module learning materials in obvious and substantial ways? NOTE: Do not evaluate on whether the resources were used effectively and persuasively, that is for the next item!
--   **Dimension 3: Using Core Ideas to Demonstrate Knowledge**
-    - Did the author provide a knowledgeable and persuasive response that effectively answers the thought question prompt?
+-   **Dimension 1: Content and Organization**
+    - The central claim of the essay is stated in the introduction and developed throughout the essay. 
+    - The ideas in the essay address the writing prompt. 
+    - The ideas in the essay are fully developed.
+    - The ideas are organized in a way that supports the author's arguments.
+-   **Dimension 2: Clarity and Formatting**
+    - Paper follows the formatting guidelines stated in the instructions. 
+    - All sources should be cited.
+    - Citations should draw from at least two course learning resources (textbook, lectures, media, additional readings) and provide sufficient detail.
+    - The sentences in the essay are clear and follow standard English grammar rules. 
 
 :::green
 **Note:** Unless the essay is completely incomprehensible, you will always receive some points for attempting an essay. Just do not turn it in late! 
